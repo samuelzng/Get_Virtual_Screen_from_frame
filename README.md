@@ -11,6 +11,7 @@ https://github.com/samuelzng/Get_Virtual_Screen_from_frame/blob/main/processed_t
 
 #Some concerns
 1. 6D-repnet could be a superior alternative
+   
 2. Quaternions prevent Gimbol lock from Euler angles (Pending maintenance)
    
 
